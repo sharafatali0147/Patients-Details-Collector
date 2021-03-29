@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TestPhaseApp</string>
+    <string name="Name">Patient Name</string>
+    <string name="Age">Age</string>
+    <string name="disease">Disease</string>
+    <string name="Temperature">Patient Temperature</string>
+    <string name="bloodPressure">blood Pressure</string>
+    <string name="Colds0AndFlu">Colds And Flu</string>
+    <string name="vomiting">Vomiting</string>
+    <string name="headache">Headache</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>
